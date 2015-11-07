@@ -1,0 +1,79 @@
+    Agua Fria
+    Agua Mansa
+    Atolia
+    Bagdad
+    Ballarat
+    Belleville
+    Bodie
+    Calico
+    Carson Hill
+    Cerro Gordo
+    Chambless
+    Cherokee
+    Chinese Camp
+    Chloride City
+    Coloma
+    Coolgardie
+    Coyote Lakes
+    Crackerjack
+    Dale
+    Darwin
+    Denny
+    Dogtown
+    Drawbridge
+    Drytown
+    Eagle Mountain
+    Essex
+    Freeman Junction
+    Garlock
+    Gibsonville
+    Goffs
+    Goler Heights
+    Greenwater
+    Hart
+    Hanson
+    Holy City
+    Ivanpah
+    Keeler
+    Kelso
+    Kingston
+    Leadfield
+    Llano Del Rio
+    Lookout City
+    Ludlow
+    Lytle Creek
+    Masonic
+    Mammoth City
+    Mentryville
+    Midland
+    Mount Ophir
+    New Almaden
+    New Idria
+    North Shore
+
+
+
+    Nortonville
+    Panamint City
+    Picacho
+    Port Chicago
+    Providence
+    Purissima
+    Rabbit Springs
+    Ragtown
+    Red Mountain
+    Randsburg
+    Rice
+    Riggs
+    Siberia
+    Silver Lake
+    Skidoo
+    Slate Range City
+    Swansea
+    Timbuctoo
+    Tumco
+    Vanderbilt
+    Wildwash
+    Wingo
+    You Bet
+    Zurich
